@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AmzoodMart">
         <activity
+            android:name=".loginActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:theme="@style/splashTheme"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
