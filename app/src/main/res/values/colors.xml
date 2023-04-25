@@ -10,4 +10,13 @@
     <color name="primaryColor">#29ab87</color>
     <color name="text">#E7DADA</color>
     <color name="maingreen">#228b22</color>
+
+    <color name="pink">#ff5ccb</color>
+    <color name="bule">#00f0ff</color>
+    <color name="backgroundColor">#FFFCFC</color>
+    <color name="textHeading">#008eff</color>
+    <color name="white">#ffffff</color>
+
+
+
 </resources>
